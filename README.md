@@ -46,13 +46,12 @@ The `decrease()` function gets the current counter value and decreases it by `1`
 ### 🔄 Reset
 The `reset()` function changes the counter value back to `0`.
 
-## 📂 Project Structure
 
-🎯 Learning Objective
+## 🎯 Learning Objective
 
 The main goal of this project is to practice JavaScript functions, DOM manipulation, variables, and button events while building a simple interactive webpage.
 
-🤖 Use of AI
+## 🤖 Use of AI
 
 AI was used for a small amount of help and guidance during this project.
 
